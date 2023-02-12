@@ -17,9 +17,16 @@ export function App() {
             </figure>
           </section>
           <section className="p-8">
-            <h1 className="font-fraunces font-bold leading-8 text-[2rem]">
+            <p className="font-medium text-aurometal-400 text-xs tracking-[0.3125rem] uppercase">
+              Perfume
+            </p>
+            <h1 className="font-fraunces font-bold leading-8 mb-6 mt-5 text-[2rem]">
               Gabrielle Essence Eau De Parfum
             </h1>
+            <p className="font-medium text-aurometal-400 text-sm leading-6">
+              A floral, solar and voluptuous interpretation composed by Olivier
+              Polge, Perfumer-Creator for the House of CHANEL.
+            </p>
           </section>
         </div>
       </main>
