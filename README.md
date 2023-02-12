@@ -20,7 +20,7 @@ This is a solution to [Product Preview Card Component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/CHALLENGE_SOLUTION_URL_SLUG](https://www.frontendmentor.io/solutions/CHALLENGE_SOLUTION_URL_SLUG)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-riJ8h4-u8Z](https://www.frontendmentor.io/solutions/product-preview-card-component-riJ8h4-u8Z)
 - Live Site URL: [https://ciensprog.github.io/FM-002-Product-Preview-Card-Component/](https://ciensprog.github.io/FM-002-Product-Preview-Card-Component/)
 
 ### Built with
