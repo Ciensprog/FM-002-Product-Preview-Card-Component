@@ -11,9 +11,9 @@ import { Attribution } from './components/Attribution'
 export function App() {
   return (
     <>
-      <main className="my-10 z-10">
-        <div className="bg-white grid grid-cols-2 max-w-[37.5rem] overflow-hidden rounded-[0.625rem] w-full">
-          <figure className="h-full w-full">
+      <main className="my-10 px-4 z-10">
+        <div className="bg-white grid grid-cols-1 overflow-hidden rounded-[0.625rem] max-w-[21.25rem] w-full sm:grid-cols-2 sm:max-w-[37.5rem]">
+          <figure className="h-60 sm:h-full w-full">
             <img
               src="product.jpg"
               className="h-full object-cover w-full"
@@ -22,7 +22,7 @@ export function App() {
               alt="Product"
             />
           </figure>
-          <section className="p-8">
+          <section className="p-6 sm:p-8">
             <p className="font-medium text-aurometal-400 text-xs tracking-[0.3125rem] uppercase">
               Perfume
             </p>
