@@ -4,5 +4,6 @@ import eslint from 'vite-plugin-eslint'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/FM-002-Product-Preview-Card-Component/',
   plugins: [react(), eslint()],
 })
